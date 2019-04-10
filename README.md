@@ -1,7 +1,8 @@
 ## Data and analysis repository
 
-This respository contains the data of Failing, Feldmann-Wüstefeld, Wang, Olivers & Theeuwes (submitted): \
+This respository contains the data of Failing, Feldmann-Wüstefeld, Wang, Olivers & Theeuwes (2019): \
 *"Statistical regularities induce spatial as well as feature-specific suppression"* \
+Journal of Experimental Psychology: Human Perception and Psychophysics \
 (see also https://osf.io/2qf5r/)
 
 ---
